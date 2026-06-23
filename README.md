@@ -1,16 +1,13 @@
-## Hi there 👋
+## I'm Thomas, welcome!
 
-<!--
-**t7sea/t7sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who am I
+I was born in ____ and live in Belgium.
+I am developer.
 
-Here are some ideas to get you started:
+🌱 More recently
+JavaScript
+PHP
+SQL
+SAAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
