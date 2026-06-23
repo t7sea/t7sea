@@ -6,9 +6,14 @@ I am developer.
 
 🌱 More recently
 
+C#
+
 JavaScript
+
 PHP
+
 SQL
-SAAS
+
+SaaS
 
 
