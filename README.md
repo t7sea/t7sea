@@ -2,11 +2,11 @@
 
 Who am I
 
-- One day I was born. 
+- One day I was born
 
 - I live in Belgium
 
-- I am developer.
+- I am developer
 
 🌱 More recently
 
